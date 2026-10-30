@@ -1,0 +1,3 @@
+Paste this into Claude Code after opening this folder:
+
+Read CLAUDE.md, then deploy this site to GitHub Pages. Ask me for the repo name, owner and visibility before you create anything, then create the repo, push, turn on Pages with GitHub Actions, wait for the deploy, and give me the live URL.
